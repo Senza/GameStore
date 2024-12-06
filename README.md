@@ -23,7 +23,7 @@ A simple GameStore project designed with a **.NET Blazor** frontend and a **.NET
 ## Getting Started
 
 ### Prerequisites:
-- [.NET SDK 7.0](https://dotnet.microsoft.com/download/dotnet/7.0)
+- [.NET SDK 8.0](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ---
@@ -32,5 +32,5 @@ A simple GameStore project designed with a **.NET Blazor** frontend and a **.NET
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/GameStore.git
+   git clone https://github.com/Senza/GameStore.git
    cd GameStore
