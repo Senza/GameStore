@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "Z/HRlAzMDAUWa5bRKqnq7JcWDmeJED86oLe1w/3FsOE=",
+  "Source": "GameStoreFrontend",
+  "BasePath": "_content/GameStoreFrontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameStoreFrontend\\wwwroot",
+      "Source": "GameStoreFrontend",
+      "ContentRoot": "D:\\Projects\\GITOpensource\\GameStore\\Frontend\\GameStoreFrontend\\wwwroot\\",
+      "BasePath": "_content/GameStoreFrontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\GITOpensource\\GameStore\\Frontend\\GameStoreFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css",
+      "SourceId": "GameStoreFrontend",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Projects\\GITOpensource\\GameStore\\Frontend\\GameStoreFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/GameStoreFrontend",
+      "RelativePath": "GameStoreFrontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\GITOpensource\\GameStore\\Frontend\\GameStoreFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStoreFrontend.styles.css"
+    },
+    {
+      "Identity": "D:\\Projects\\GITOpensource\\GameStore\\Frontend\\GameStoreFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css",
+      "SourceId": "GameStoreFrontend",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Projects\\GITOpensource\\GameStore\\Frontend\\GameStoreFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/GameStoreFrontend",
+      "RelativePath": "GameStoreFrontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\GITOpensource\\GameStore\\Frontend\\GameStoreFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStoreFrontend.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Projects\\GITOpensource\\GameStore\\Frontend\\GameStoreFrontend\\wwwroot\\app.css",
+      "SourceId": "GameStoreFrontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\GITOpensource\\GameStore\\Frontend\\GameStoreFrontend\\wwwroot\\",
+      "BasePath": "_content/GameStoreFrontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
